@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2023-08-01
+  Info:
+    - Initial Release
+  Features:
+    - Make the location pings not blink
+    - Configurable duration of the ping visibility

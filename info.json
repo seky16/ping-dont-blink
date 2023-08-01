@@ -1,0 +1,11 @@
+{
+    "name": "ping-dont-blink",
+    "version": "0.1.0",
+    "factorio_version": "1.1",
+    "title": "Ping, dont blink",
+    "author": "seky16",
+    "contact": "discord: seky16",
+    "homepage": "https://github.com/seky16",
+    "description": "Make map location pings not blink.",
+    "dependencies": []
+}
